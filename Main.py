@@ -1,3 +1,4 @@
+import mysql.connector
 name = input('Hello welcome to Cha Ching bank, what is your name?: ')
 Money = 0
 subtract = 0
